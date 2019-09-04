@@ -1,0 +1,2 @@
+# go-shortcuts
+Shortcuts libs
